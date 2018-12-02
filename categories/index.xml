@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Fangshu&#39;s blog</title>
+    <link>https://LolaFSYE.github.io/categories/</link>
+    <description>Recent content in Categories on Fangshu&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</managingEditor>
+    <webMaster>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</webMaster>
+    
+	<atom:link href="https://LolaFSYE.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy Birthday</title>
+      <link>https://LolaFSYE.github.io/categories/happy-birthday/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/categories/happy-birthday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lasso Trial</title>
+      <link>https://LolaFSYE.github.io/categories/lasso-trial/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/categories/lasso-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://LolaFSYE.github.io/categories/life/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photo</title>
+      <link>https://LolaFSYE.github.io/categories/photo/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/categories/photo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://LolaFSYE.github.io/categories/research/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://LolaFSYE.github.io/categories/tutorial/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工作总结</title>
+      <link>https://LolaFSYE.github.io/categories/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/categories/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>德德主人</title>
+      <link>https://LolaFSYE.github.io/categories/%E5%BE%B7%E5%BE%B7%E4%B8%BB%E4%BA%BA/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/categories/%E5%BE%B7%E5%BE%B7%E4%B8%BB%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

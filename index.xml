@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fangshu&#39;s blog</title>
+    <link>https://LolaFSYE.github.io/</link>
+    <description>Recent content on Fangshu&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</managingEditor>
+    <webMaster>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</webMaster>
+    <lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://LolaFSYE.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>每周工作总结</title>
+      <link>https://LolaFSYE.github.io/2018/12/chinese-test/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2018/12/chinese-test/</guid>
+      <description>&lt;p&gt;&lt;em&gt;From &lt;a href=&#34;http://scholar.pku.edu.cn/jicheng&#34;&gt;宫老师组&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Happy Birthday to my girl</title>
+      <link>https://LolaFSYE.github.io/2018/12/happy-birthday-to-my-girl/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2018/12/happy-birthday-to-my-girl/</guid>
+      <description>&lt;p&gt;今年由于我圣诞节不在国内，德德也要准备考试，我们准备过农历生日啦~&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tags plugins showcase</title>
+      <link>https://LolaFSYE.github.io/2018/10/tags-plugins-showcase/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2018/10/tags-plugins-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://LolaFSYE.github.io/2018/07/photos/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2018/07/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Add some png online and url</title>
+      <link>https://LolaFSYE.github.io/2018/06/add-some-png-online-and-url/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2018/06/add-some-png-online-and-url/</guid>
+      <description>&lt;p&gt;Here you can find a list of the blogs that use Tranquilpeak theme, with different styles and customizations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Code 学习笔记</title>
+      <link>https://LolaFSYE.github.io/2018/03/code-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2018/03/code-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Elements showcase</title>
+      <link>https://LolaFSYE.github.io/2015/05/elements-showcase/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2015/05/elements-showcase/</guid>
+      <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden social section showcase</title>
+      <link>https://LolaFSYE.github.io/2014/08/hidden-social-section-showcase/</link>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2014/08/hidden-social-section-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden tag section showcase</title>
+      <link>https://LolaFSYE.github.io/2014/08/hidden-tag-section-showcase/</link>
+      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2014/08/hidden-tag-section-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden next previous</title>
+      <link>https://LolaFSYE.github.io/2014/08/hidden-next-previous/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2014/08/hidden-next-previous/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Tranquilpeak 0.4.4-BETA</title>
+      <link>https://LolaFSYE.github.io/2014/06/welcome-to-tranquilpeak-0.4.4-beta/</link>
+      <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2014/06/welcome-to-tranquilpeak-0.4.4-beta/</guid>
+      <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
