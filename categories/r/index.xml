@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Fangshu&#39;s blog</title>
+    <link>https://LolaFSYE.github.io/categories/r/</link>
+    <description>Recent content in R on Fangshu&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</managingEditor>
+    <webMaster>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</webMaster>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://LolaFSYE.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stacked bar chart</title>
+      <link>https://LolaFSYE.github.io/2019/01/stacked-bar-chart/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <author>yefangshu@pku.edu.cn (Fangshu YE (叶方舒))</author>
+      <guid>https://LolaFSYE.github.io/2019/01/stacked-bar-chart/</guid>
+      <description>&lt;p&gt;how to plot the figure in the cover?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

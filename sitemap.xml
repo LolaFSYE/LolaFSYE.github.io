@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://LolaFSYE.github.io/2019/01/stacked-bar-chart/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://LolaFSYE.github.io/2018/12/session-8-indoor-air-pollution-and-health-risk/</loc>
     <lastmod>2018-12-10T00:00:00+00:00</lastmod>
   </url>
@@ -97,13 +102,25 @@
   
   <url>
     <loc>https://LolaFSYE.github.io/</loc>
-    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://LolaFSYE.github.io/tags/friend-image/</loc>
     <lastmod>2018-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://LolaFSYE.github.io/tags/ggplot2/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://LolaFSYE.github.io/categories/ggplot2/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -199,7 +216,7 @@
   
   <url>
     <loc>https://LolaFSYE.github.io/post/</loc>
-    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -218,6 +235,12 @@
   <url>
     <loc>https://LolaFSYE.github.io/tags/r/</loc>
     <lastmod>2018-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://LolaFSYE.github.io/categories/r/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -247,7 +270,7 @@
   
   <url>
     <loc>https://LolaFSYE.github.io/categories/summary/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
