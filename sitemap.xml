@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://LolaFSYE.github.io/2019/02/generate-a-new-ssh-key/</loc>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://LolaFSYE.github.io/2019/01/stacked-bar-chart/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
   </url>
@@ -102,7 +107,7 @@
   
   <url>
     <loc>https://LolaFSYE.github.io/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -113,26 +118,26 @@
   </url>
   
   <url>
-    <loc>https://LolaFSYE.github.io/tags/ggplot2/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://LolaFSYE.github.io/categories/ggplot2/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://LolaFSYE.github.io/tags/github/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+    <loc>https://LolaFSYE.github.io/tags/ggplot2/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://LolaFSYE.github.io/categories/github/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://LolaFSYE.github.io/tags/github/</loc>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -168,7 +173,7 @@
   
   <url>
     <loc>https://LolaFSYE.github.io/tags/hugo/</loc>
-    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,13 +202,13 @@
   </url>
   
   <url>
-    <loc>https://LolaFSYE.github.io/tags/photo/</loc>
+    <loc>https://LolaFSYE.github.io/categories/photo/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://LolaFSYE.github.io/categories/photo/</loc>
+    <loc>https://LolaFSYE.github.io/tags/photo/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -216,7 +221,7 @@
   
   <url>
     <loc>https://LolaFSYE.github.io/post/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -233,14 +238,14 @@
   </url>
   
   <url>
-    <loc>https://LolaFSYE.github.io/tags/r/</loc>
-    <lastmod>2018-03-23T00:00:00+00:00</lastmod>
+    <loc>https://LolaFSYE.github.io/categories/r/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://LolaFSYE.github.io/categories/r/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <loc>https://LolaFSYE.github.io/tags/r/</loc>
+    <lastmod>2018-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -269,8 +274,14 @@
   </url>
   
   <url>
+    <loc>https://LolaFSYE.github.io/tags/ssh/</loc>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://LolaFSYE.github.io/categories/summary/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
